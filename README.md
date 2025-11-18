@@ -20,6 +20,7 @@ The program receives two input parameters (the height and width) of the image in
 
 #### Output parameter (1)
 The program must return the size of the grayscale image.
+
 _The output values must be returned with two digits after the decimal point._
 
 
