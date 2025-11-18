@@ -19,8 +19,7 @@ You are asked to write a C program that calculates the size of a grayscale image
 The program receives two input parameters (the height and width) of the image in integer format.
 
 #### Output parameter (1)
-The program must return the size of the grayscale image.
-
+The program must return the size of the grayscale image.<br>
 _The output values must be returned with two digits after the decimal point._
 
 
