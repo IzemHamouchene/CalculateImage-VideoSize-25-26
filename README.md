@@ -13,13 +13,13 @@ For the conversion:
 
 
 ### Exercice 1 : Image size (CalculateImageSize_grayscale.c)
-You are asked to write a C program that calculates the size of a grayscale image (**in ko**) and a color image (**en mo**)
+You are asked to write a C program that calculates the size of a grayscale image (**in ko**)
 
 ##### Input parameters (2)
 The program receives two input parameters (the height and width) of the image in integer format.
 
 ##### Output parameter (1)
-The program mus return the size of the grayscale image.
+The program must return the size of the grayscale image.
 _The output values must be returned with two digits after the decimal point._
 
 
@@ -30,7 +30,7 @@ You are asked to write a C program that calculates the size of a color image (**
 The program receives two input parameters (the height and width) of the image in integer format.
 
 ##### Output parameter (1)
-The program mus return the size of the color image.
+The program must return the size of the color image.
 _The output values must be returned with two digits after the decimal point._
 
 
@@ -45,5 +45,5 @@ The program receives the following parameters (in order):
 3. FPS (Frames Per Second)
 
 ##### Output Parameter (1)
-The program mus return the size of the video (half the time in grayscale and the other half in color) (in GB)
+The program must return the size of the video (half the time in grayscale and the other half in color) (in GB)
 _The output values must be returned with two digits after the decimal point._
