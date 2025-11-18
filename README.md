@@ -1,6 +1,6 @@
 # Master 1 SII : Multimédia
-## TP 2 : Calculate size
-The purpose of this lab work is to put into practice the concepts learned during the course  [course](https://canvas.instructure.com/courses/13255575/files/317542377) for processing grayscale images, color images, and video.
+## TP 2 : Calculate size images/video
+The purpose of this lab work is to put into practice the concepts learned during the [course](https://canvas.instructure.com/courses/13255575/files/317542377) for processing grayscale images, color images, and video.
 
 **Reminder**  
 Each pixel in a grayscale image is encoded on 8 bits. 
