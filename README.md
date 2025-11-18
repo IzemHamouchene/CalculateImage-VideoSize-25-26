@@ -24,13 +24,13 @@ _The output values must be returned with two digits after the decimal point._
 
 
 ### Exercice 2 : Image size (CalculateImageSize_color.c)
-You are asked to write a C program that calculates the size of a color image (**en mo**)
+You are asked to write a C program that calculates the size of a color image (**in mo**)
 
 #### Input parameters (2)
 The program receives two input parameters (the height and width) of the image in integer format.
 
 #### Output parameter (1)
-The program must return the size of the color image.
+The program must return the size of the color image.<br>
 _The output values must be returned with two digits after the decimal point._
 
 
@@ -40,10 +40,10 @@ Example: if the video lasts 4 minutes, 2 minutes are grayscale and 2 minutes are
 
 #### Input Parameters (3)
 The program receives the following parameters (in order):
-1. Size of a grayscale image (in KB)
+1. Size of a grayscale image (**in KB**)
 2. Duration of the video (in seconds)
 3. FPS (Frames Per Second)
 
 #### Output Parameter (1)
-The program must return the size of the video (half the time in grayscale and the other half in color) (in GB)
+The program must return the size of the video (half the time in grayscale and the other half in color) (**in GB**)<br>
 _The output values must be returned with two digits after the decimal point._
