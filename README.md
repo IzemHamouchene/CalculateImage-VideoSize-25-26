@@ -15,7 +15,7 @@ For the conversion:
 ### Exercice 1 : Image size (CalculateImageSize_grayscale.c)
 You are asked to write a C program that calculates the size of a grayscale image (**in ko**)
 
-#### Input parameters (2):
+#### Input parameters (2)
 The program receives two input parameters (the height and width) of the image in integer format.
 
 #### Output parameter (1)
