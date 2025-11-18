@@ -12,7 +12,7 @@ For the conversion:
 * 1 go = 1024 mo  
 
 
-### Exercice 1 : Image size (CalculateImageSize_grayscale.c)
+### Exercice 1 : Image size ([grayScaleImage.c](grayScaleImage.c))
 You are asked to write a C program that calculates the size of a grayscale image (**in ko**)
 
 #### Input parameters (2)
