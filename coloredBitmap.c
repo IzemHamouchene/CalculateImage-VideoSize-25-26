@@ -1,4 +1,6 @@
 #include "config/coloredBitmap.h"
+#include <string.h>
+
 // Parameters:
 //   w: width of the image
 //   h: height of the image
