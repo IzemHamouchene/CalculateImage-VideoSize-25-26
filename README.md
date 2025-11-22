@@ -12,7 +12,7 @@ For the conversion:
 * 1 go = 1024 mo  
 
 
-### Exercice 1 : ([GrayScale Image size](grayScaleImage.c))
+### Exercice 1 : ([GrayScale Image size](grayScaleImage.c)) [0.25 pts]
 You are asked to write a C program that calculates the size of a grayscale image (**in ko**)
 
 #### Input parameters (2)
@@ -23,7 +23,7 @@ The program must return the size of the grayscale image.<br>
 _The output values must be returned with two digits after the decimal point._
 
 
-### Exercice 2 : ([Color Bitmap image size](coloredBitmap.c))
+### Exercice 2 : ([Color Bitmap image size](coloredBitmap.c)) [0.5 pts]
 You are asked to write a C program that calculates the size of a color image (**in mo**)
 
 #### Input parameters (3)
@@ -42,7 +42,7 @@ The program must return the size of the color image.<br>
 _The output values must be returned with two digits after the decimal point._
 
 
-### Exercise 3: ([Video size](video.c))
+### Exercise 3: ([Video size](video.c)) [1 pts]
 You are required to write a C program that calculates the size of a video. The video starts with color images and ends with black and white images (Credits).
 
 #### Input Parameters (3)
