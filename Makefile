@@ -7,5 +7,5 @@ test_coloredBitmap:
 	./result2
 
 test_video: 
-	cd config/; gcc mainvideo.c assert_with_message.c ../video.c -o ../result3
+	cd config/; gcc mainvideo.c assert_with_message.c ../Video.c -o ../result3
 	./result3
