@@ -15,6 +15,6 @@ int testMethod(int input1, int input2, int durationMovie, int durationCredit, in
 
 int main() {
     testMethod(1024, 1024, 30, 10, 20, "go", 1.953125);
-    testMethod(2048, 4096, 60, 10, 20, "mo", 24200);
+    testMethod(2048, 1024, 60, 10, 20, "mo", 1954);
     return 0;
 }
