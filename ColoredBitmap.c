@@ -4,7 +4,7 @@
 // Parameters:
 //   w: width of the image
 //   h: height of the image
-//   u: Unit of the output value. It could be 'bt' bits, 'ko' kilobyts, 'mo' megabyts, 'go' gigabits
+//   u: Unit of the output value. It could be 'bt' bits, 'ko' kilobytes, 'mo' megabytes, 'go' gigabytes
 // Return value
 //   colored image size Bitmap (based on the unit passed parametter)
 float coloredBitmap(int w, int h, char* unit) {
